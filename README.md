@@ -15,7 +15,7 @@ Put Claude Code in your pocket — the open-source desktop client that makes Cla
 
 [Download](#installation) · [Documentation](#documentation) · [Contributing](#contributing)
 
-**[中文](./README.zh-CN.md)** | **[Español](./README.es.md)**
+ **[Español](./docs/README.es.md)** | **[Deutsch](./docs/README.de.md)** |**[中文](./docs/README.zh-CN.md)** |  **[Français](./docs/README.fr.md)** | **[日本語](./docs/README.ja.md)**
 
 </div>
 
@@ -31,7 +31,7 @@ Put Claude Code in your pocket — the open-source desktop client that makes Cla
 
 ## Why Halo?
 
-**Claude Code is the most capable AI coding agent available.** . But there's a problem:
+**Claude Code is the most capable AI coding agent available.** But there's a problem:
 
 > **It's trapped in a terminal.**
 
